@@ -1,2 +1,2 @@
 # clock
-An HTML clock with digital support. Analog support is coming soon.
+A clock with in multiple languages wih digital support. Analog support is coming soon.

@@ -9,5 +9,6 @@ int main()
 
 	tm *tm_local = localtime(&curr_time);
 	cout << "The time is now : " << tm_local->tm_hour << ":" << tm_local->tm_min << ":" << tm_local->tm_sec;
+	system("PAUSE");
 	return 0;
 }

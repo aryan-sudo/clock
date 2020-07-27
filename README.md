@@ -15,7 +15,16 @@ Your computer has a architecture that we haven't provided a binary for
 You want to hack the code
 
 You just love building programs from source.
-d
+
+First run sudo apt-get install g++ gcc make gawk autoconf automake git
+
+This will install all the build dependenies needed by clock.
+
+Next run git clone --branch C http://github.com/winexe0/clock.git/
+
+This will fetch the latest source code for the Clock C.
+
+Run 
 # Discord Server
 We just have an Discord Server if you have questions or just wanna hang out or something like that https://discord.gg/QrMQYT2
 

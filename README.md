@@ -9,7 +9,13 @@ Clock C v1.0
 
 Open a terminal on Linux/OSX and type ./clock. For windows open a command prompt and type clockcwindowsARCH.exe where ARCH is either x86_64, x86_32, x86, or arm64.
 # Building from source
-There may 
+There may be several reasons you might want to build clock from source.
+Your computer has a architecture that we haven't provided a binary for
+
+You want to hack the code
+
+You just love building programs from source.
+d
 # Discord Server
 We just have an Discord Server if you have questions or just wanna hang out or something like that https://discord.gg/QrMQYT2
 

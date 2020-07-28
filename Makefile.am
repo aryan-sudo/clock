@@ -1,3 +1,3 @@
 AUTOMAKE_OPTIONS = foreign
 bin_PROGRAMS = clock
-helloworld_SOURCES = clock.c
+clock_SOURCES = clock.c

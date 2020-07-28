@@ -1,3 +1,4 @@
+echo Although it might appear to hang, It is still running.
 aclocal
 autoconf
 automake --add-missing

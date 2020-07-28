@@ -24,7 +24,13 @@ Next run git clone --branch C http://github.com/winexe0/clock.git/
 
 This will fetch the latest source code for the Clock C.
 
-Run 
+Run chmod +x autogen.sh
+
+Run ./configure
+
+Run make
+
+If you want to install clock then run sudo make install
 # Discord Server
 We just have an Discord Server if you have questions or just wanna hang out or something like that https://discord.gg/QrMQYT2
 
